@@ -1,0 +1,3 @@
+[submodule "MettOMeter-Android"]
+	path = MettOMeter-Android
+	url = git@github.com:rGunti/MettOMeter-Android.git
